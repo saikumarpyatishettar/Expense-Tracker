@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(17, 17, 30);
+    color: white;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
