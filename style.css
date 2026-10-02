@@ -1,9 +1,34 @@
 *{
-    background-color: rgb(17, 17, 30);
+    /* background-color: rgb(17, 17, 30); */
     color: white;
+    margin: 1px;
 }
 .navbar{
     display: flex;
     align-items: center;
+    
     justify-content: space-evenly;
+    background-color: rgb(37, 7, 60);
 }
+.nav_home{
+    display: flex;
+   }
+   .nav_home_icon{
+    margin-right: 10px;
+   }
+   .border{
+    border-color: white;
+
+   }
+   .border:hover{
+    border-style: solid;
+    border-radius: 25%;
+    border-color: rgb(236, 228, 236);
+    border-width: 2px;
+   }
+   .nav_profile{
+    display: flex;
+
+
+   }
+  
