@@ -31,4 +31,11 @@
 
 
    }
+/* footer */
+.footer{
+    background-color: black;
+    display: flex;
+    height: 10px;
+    width: auto;
+}
   
